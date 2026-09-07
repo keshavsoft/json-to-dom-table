@@ -1,0 +1,32 @@
+{
+  "name": "json-to-dom-table",
+  "version": "1.0.0",
+  "description": "Standalone, config-driven Table renderer built on top of json-to-dom",
+  "type": "module",
+  "main": "src/v1/index.js",
+  "files": [
+    "src",
+    "docs",
+    "README.md"
+  ],
+  "exports": {
+    ".": "./src/v1/index.js",
+    "./v1": "./src/v1/index.js"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "json-to-dom",
+    "table",
+    "renderer",
+    "aggregates",
+    "totals"
+  ],
+  "author": "KeshavSoft",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
