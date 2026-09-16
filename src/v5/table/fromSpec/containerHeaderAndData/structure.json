@@ -25,7 +25,7 @@
                                 {
                                     "tagName": "tr",
                                     "jsonToSpec": {
-                                        "operation": "iterate",
+                                        "operation": "loopArray",
                                         "source": "columns",
                                         "template": {
                                             "tagName": "th",
@@ -42,7 +42,7 @@
                                 "id": "table-body"
                             },
                             "jsonToSpec": {
-                                "operation": "iterate",
+                                "operation": "loopArray",
                                 "source": "data",
                                 "template": {
                                     "tagName": "tr",

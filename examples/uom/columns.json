@@ -1,0 +1,18 @@
+[
+    {
+        "key": "LedgerName",
+        "label": "Ledger Name",
+        "type": "string",
+        "list": "LedgerName"
+    },
+    {
+        "key": "InvoiceNo",
+        "label": "Invoice Number",
+        "type": "number"
+    },
+    {
+        "key": "InvoiceDate",
+        "label": "Invoice Date",
+        "type": "date"
+    }
+]

@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "@keshavsoft/json-to-dom": "^1.31.3",
-    "json-to-spec": "^19.1.0"
+    "json-to-spec": "^20.1.0"
   }
 }
