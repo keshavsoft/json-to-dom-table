@@ -24,16 +24,6 @@ const localRenderFromCdn = ({ inContainerId, inContainer, targetContainerId } = 
     };
 };
 
-const methods = {
-    repaintBody,
-    repaintFoot,
-    refreshTable,
-    renderTable,
-    renderStructure,
-    buildSpec,
-    buildTable
-};
-
 const createMethods = ({ inTable } = {}) => {
     const localTable = inTable;
 
@@ -132,12 +122,6 @@ const createMethods = ({ inTable } = {}) => {
     };
 
     return {
-        buildSpec: localBuildSpec,
-        repaintBody: localRepaintBody,
-        repaintFoot: localRepaintFoot,
-        refreshTable: localRefreshTable,
-        renderStructure: localRenderStructure,
-        render: localRender,
         renderFromCdn: localRenderFromCdn,
         renderContainer: container,
         renderContainerAndHeader: localContainerAndHeader,
@@ -145,6 +129,4 @@ const createMethods = ({ inTable } = {}) => {
     };
 };
 
-export { methods, createMethods, buildSpec, repaintBody, repaintFoot, refreshTable, renderTable, renderStructure, buildTable };
-export default methods;
-
+export { createMethods };

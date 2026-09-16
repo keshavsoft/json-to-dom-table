@@ -1,10 +1,6 @@
 import { TableStore } from "./tableStore/index.js";
-import { layouts, setLayout } from "./layout/index.js";
-import { themes, setTheme } from "./theme/index.js";
-import { resolveClasses } from "./classes/index.js";
-import { methods, createMethods } from "./methods/index.js";
+import { createMethods } from "./methods/index.js";
 import { actions, createActions } from "./actions/index.js";
-import { config as templateConfig } from "./templates/index.js";
 
 class Table {
     constructor({
@@ -31,12 +27,6 @@ class Table {
         this.layout = localLayout;
         this.theme = localTheme;
         this.customClasses = localClasses;
-        this.classes = resolveClasses({
-            inLayout: this.layout,
-            inTheme: this.theme,
-            inConfigClasses: localConfig?.classes,
-            inCustomClasses: this.customClasses
-        });
         this.dataProvider = localDataProvider;
         this.tableElement = null;
         this.controlsTree = null;
@@ -50,17 +40,6 @@ class Table {
         this.methods = createMethods({ inTable: this });
         this.actions = createActions({ inTable: this });
         this.spec = this.buildSpec();
-    }
-
-
-    setLayout({ layout = "compact", inLayout } = {}) {
-        const localLayout = inLayout || layout || "compact";
-        return setLayout({ inTable: this, inLayout: localLayout });
-    }
-
-    setTheme({ theme = "default", inTheme } = {}) {
-        const localTheme = inTheme || theme || "default";
-        return setTheme({ inTable: this, inTheme: localTheme });
     }
 
     buildSpec() {
@@ -78,9 +57,6 @@ class Table {
     async render(args = {}) {
         return await this.methods.render(args);
     }
-
-
-
 
     getControlsTree() {
         return this.controlsTree;
@@ -143,11 +119,6 @@ class Table {
     filter(args = {}) {
         return this.actions.filter(args);
     }
-}
+};
 
-Table.layouts = Object.keys(layouts);
-Table.themes = Object.keys(themes);
-Table.configTemplate = templateConfig;
-
-export { Table, methods, actions, templateConfig };
-export default Table;
+export { Table };

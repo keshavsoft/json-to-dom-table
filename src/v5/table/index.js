@@ -1,5 +1,4 @@
-import { Table, methods, actions, templateConfig } from "./Table.js";
-import { getTemplateConfig } from "./templates/index.js";
+import { Table } from "./Table.js";
 
-export { Table, methods, actions, templateConfig, getTemplateConfig };
+export { Table };
 export default Table;
