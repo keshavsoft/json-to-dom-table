@@ -1,5 +1,5 @@
 {
-    "serial": true,
+    "serial": false,
     "caption": {
         "text": "Purchase Records",
         "class": "caption-top fw-bold text-secondary ps-2 pb-1"
@@ -72,10 +72,8 @@
     ],
     "head": {
         "columns": [
-            "vouchertypename",
-            "date",
-            "vouchernumber",
-            "stockitemname"
+            "name",
+            "originalName"
         ]
     },
     "foot": [

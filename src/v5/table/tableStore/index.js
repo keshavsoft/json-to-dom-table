@@ -7,6 +7,7 @@ class TableStore {
         const localData = inData;
         const localColumns = inColumns;
         const localConfig = inConfig;
+        // console.log("localConfig : ", localConfig);
 
         // 1. Explicitly build source: pristine baseline inputs (originalData, columns, config)
         this.source = buildSource({

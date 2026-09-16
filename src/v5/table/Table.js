@@ -6,9 +6,6 @@ class Table {
         data = [],
         columns = [],
         config = {},
-        layout,
-        theme,
-        classes = {},
         dataProvider = null,
         targetContainerId = ""
     } = {}) {

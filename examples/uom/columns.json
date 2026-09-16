@@ -1,18 +1,12 @@
 [
     {
-        "key": "LedgerName",
-        "label": "Ledger Name",
-        "type": "string",
-        "list": "LedgerName"
+        "key": "name",
+        "label": "name",
+        "type": "string"
     },
     {
-        "key": "InvoiceNo",
-        "label": "Invoice Number",
-        "type": "number"
-    },
-    {
-        "key": "InvoiceDate",
-        "label": "Invoice Date",
-        "type": "date"
+        "key": "originalName",
+        "label": "originalName",
+        "type": "string"
     }
 ]

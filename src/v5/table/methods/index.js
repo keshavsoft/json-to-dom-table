@@ -35,7 +35,7 @@ const createMethods = ({ inTable } = {}) => {
 
         const data = localTable.store.library.stateData;
 
-        console.log("data : ", data);
+        console.log("data-------- : ", data);
 
         containerHeaderAndData({
             targetHtmlId, inColumns: activeColumns,

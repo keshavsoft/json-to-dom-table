@@ -14,7 +14,8 @@ const buildLibrary = ({ inSource = {}, inResolveColumns } = {}) => {
         : (localSource?.columns || []);
 
     const stateData = cloneData({
-        inData: localSource?.originalData
+        inData: localSource?.originalData,
+        inActiveColumns: activeColumns
     });
 
     const serialResult = insertSerial({

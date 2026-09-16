@@ -46,20 +46,15 @@
                                 "source": "data",
                                 "template": {
                                     "tagName": "tr",
-                                    "children": [
-                                        {
+                                    "jsonToSpec": {
+                                        "operation": "loopObject",
+                                        "source": "data",
+                                        "template": {
                                             "tagName": "td",
-                                            "textContent": "${LedgerName}"
-                                        },
-                                        {
-                                            "tagName": "td",
-                                            "textContent": "${LedgerParentName}"
-                                        },
-                                        {
-                                            "tagName": "td",
-                                            "textContent": "${LedgerType}"
+                                            "textContent": "${value}"
                                         }
-                                    ]
+                                    },
+                                    "children": []
                                 }
                             },
                             "children": []
