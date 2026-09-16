@@ -1,0 +1,72 @@
+{
+    "tagName": "div",
+    "attributes": {
+        "class": "card shadow-sm"
+    },
+    "children": [
+        {
+            "tagName": "div",
+            "attributes": {
+                "class": "table-responsive"
+            },
+            "children": [
+                {
+                    "tagName": "table",
+                    "attributes": {
+                        "class": "table table-hover table-striped mb-0"
+                    },
+                    "children": [
+                        {
+                            "tagName": "thead",
+                            "attributes": {
+                                "class": "table-dark"
+                            },
+                            "children": [
+                                {
+                                    "tagName": "tr",
+                                    "jsonToSpec": {
+                                        "operation": "iterate",
+                                        "source": "columns",
+                                        "template": {
+                                            "tagName": "th",
+                                            "textContent": "${label}"
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "tagName": "tbody",
+                            "attributes": {
+                                "id": "table-body"
+                            },
+                            "jsonToSpec": {
+                                "operation": "iterate",
+                                "source": "data",
+                                "template": {
+                                    "tagName": "tr",
+                                    "children": [
+                                        {
+                                            "tagName": "td",
+                                            "textContent": "${LedgerName}"
+                                        },
+                                        {
+                                            "tagName": "td",
+                                            "textContent": "${LedgerParentName}"
+                                        },
+                                        {
+                                            "tagName": "td",
+                                            "textContent": "${LedgerType}"
+                                        }
+                                    ]
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

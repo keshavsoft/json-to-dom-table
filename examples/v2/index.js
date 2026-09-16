@@ -6,7 +6,7 @@ import menuConfig from "./menu/config.json" with { type: "json" };
 
 // 1. Renderers pulled via GitHub Pages docs/dist bundles
 // import { Form } from "https://keshavsoft.github.io/json-to-dom-form/dist/v1/min.js";
-import { Table } from "../../src/v5/index.js";
+import { Table } from "../../src/v4/index.js";
 
 import { DataList } from "https://keshavsoft.github.io/json-to-dom-datalist/dist/v9/min.js";
 import { createDataProvider } from "https://keshavsoft.github.io/json-to-dom-provider/dist/v1/min.js";
@@ -39,9 +39,7 @@ const startFunc = async () => {
         targetContainerId: "filter-container"
     });
 
-    // const k1 = table.methods.renderFromCdn({});
-    // const k1 = table.methods.renderContainer({ targetHtmlId: "table-container" });
-    const k1 = table.methods.renderContainerHeaderAndData({ targetHtmlId: "table-container" });
+    const k1 = table.methods.renderFromCdn({});
 
     console.log("------table--- : ", k1, data, table.methods);
 };

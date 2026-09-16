@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "label": "Ledger Name",
+      "value": "360 one Quant Fund on 20.08.24"
+    },
+    {
+      "label": "Ledger Parent Name",
+      "value": "Investments"
+    },
+    {
+      "label": "Ledger Type",
+      "value": "Ledger"
+    },
+    {
+      "label": "GST Registration Type",
+      "value": ""
+    },
+    {
+      "label": "Party GSTIN",
+      "value": ""
+    }
+  ]
+}

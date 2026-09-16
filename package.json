@@ -30,5 +30,9 @@
   "license": "MIT",
   "devDependencies": {
     "vite": "^5.4.2"
+  },
+  "dependencies": {
+    "@keshavsoft/json-to-dom": "^1.31.3",
+    "json-to-spec": "^19.1.0"
   }
 }

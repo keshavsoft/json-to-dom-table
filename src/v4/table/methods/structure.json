@@ -1,0 +1,46 @@
+{
+    "tagName": "div",
+    "attributes": {
+        "class": "card shadow-sm"
+    },
+    "children": [
+        {
+            "tagName": "div",
+            "attributes": {
+                "class": "table-responsive"
+            },
+            "children": [
+                {
+                    "tagName": "table",
+                    "attributes": {
+                        "class": "table table-hover table-striped mb-0"
+                    },
+                    "children": [
+                        {
+                            "tagName": "thead",
+                            "attributes": {
+                                "class": "table-dark"
+                            },
+                            "children": [
+                                {
+                                    "tagName": "tr",
+                                    "children": [
+                                        {
+                                            "tagName": "th",
+                                            "textContent": "Name"
+                                        },
+                                        {
+                                            "tagName": "th",
+                                            "textContent": "LedgerParentName"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                
+                    ]
+                }
+            ]
+        }
+    ]
+}

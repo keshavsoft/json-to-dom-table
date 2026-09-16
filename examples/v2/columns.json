@@ -11,8 +11,8 @@
         "type": "number"
     },
     {
-        "key": "LedgerType",
-        "label": "LedgerType",
-        "type": "string"
+        "key": "InvoiceDate",
+        "label": "Invoice Date",
+        "type": "date"
     }
 ]
