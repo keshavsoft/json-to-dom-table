@@ -18,17 +18,20 @@
                     "children": [
                         {
                             "tagName": "colgroup",
-                            "jsonToSpec": {
-                                "operation": "loopArray",
-                                "source": "colGroup",
-                                "template": {
+                            "children": [
+                                {
                                     "tagName": "col",
                                     "attributes": {
-                                        "style": "${style}"
+                                        "style": "width: 30%;"
+                                    }
+                                },
+                                {
+                                    "tagName": "col",
+                                    "attributes": {
+                                        "style": "width: 70%;"
                                     }
                                 }
-                            },
-                            "children": []
+                            ]
                         },
                         {
                             "tagName": "thead",

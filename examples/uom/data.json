@@ -5,26 +5,5 @@
     "isSimpleUnit": "Yes",
     "conversion": 0,
     "decimalPlaces": 3
-  },
-  {
-    "name": "mtr",
-    "originalName": "Meter",
-    "isSimpleUnit": "Yes",
-    "conversion": 0,
-    "decimalPlaces": 2
-  },
-  {
-    "name": "Nos",
-    "originalName": "Nos'",
-    "isSimpleUnit": "Yes",
-    "conversion": 0,
-    "decimalPlaces": 0
-  },
-  {
-    "name": "sft",
-    "originalName": "Square Feet",
-    "isSimpleUnit": "Yes",
-    "conversion": 0,
-    "decimalPlaces": 2
   }
 ]

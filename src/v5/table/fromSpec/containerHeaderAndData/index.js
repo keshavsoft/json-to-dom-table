@@ -3,11 +3,13 @@ import { buildSpecElement } from "../../../../../node_modules/@keshavsoft/json-t
 
 import structureJson from './structure.json' with {type: 'json'};
 
-const startFunc = ({ targetHtmlId, inColumns, inData } = {}) => {
+const startFunc = ({ targetHtmlId, inColumns, inData, inColGroup } = {}) => {
     try {
         let dataAsJson = {};
         dataAsJson.columns = inColumns;
         dataAsJson.data = inData;
+        dataAsJson.colGroup = inColGroup;
+        // console.log("dataAsJson : ", dataAsJson);
 
         const specAsJsonToDom = compile(structureJson, dataAsJson);
 

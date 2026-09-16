@@ -1,5 +1,5 @@
 {
-    "serial": false,
+    "serial": true,
     "caption": {
         "text": "Purchase Records",
         "class": "caption-top fw-bold text-secondary ps-2 pb-1"
@@ -7,10 +7,10 @@
     "colgroup": [
         {
             "key": "name",
-            "width": "10%"
+            "width": "40%"
         },
         {
-            "key": "originalName",
+            "key": "parent",
             "width": "90%"
         }
     ],
@@ -41,7 +41,7 @@
     "head": {
         "columns": [
             "name",
-            "originalName"
+            "parent"
         ]
     },
     "foot": [

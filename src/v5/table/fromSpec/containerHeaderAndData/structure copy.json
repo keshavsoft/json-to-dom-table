@@ -17,20 +17,6 @@
                     },
                     "children": [
                         {
-                            "tagName": "colgroup",
-                            "jsonToSpec": {
-                                "operation": "loopArray",
-                                "source": "colGroup",
-                                "template": {
-                                    "tagName": "col",
-                                    "attributes": {
-                                        "style": "${style}"
-                                    }
-                                }
-                            },
-                            "children": []
-                        },
-                        {
                             "tagName": "thead",
                             "attributes": {
                                 "class": "table-dark"

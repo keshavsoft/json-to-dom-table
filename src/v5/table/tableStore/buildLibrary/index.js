@@ -2,6 +2,18 @@ import { cloneData } from "../../../common/cloneData.js";
 import { insertSerial } from "./serial/insertSerial.js";
 import { calculateFooter } from "./footer/calculateFooter.js";
 
+const buildColGroup = ({ inColGroup }) => {
+    const colGroup = inColGroup.map(element => {
+        let newElement = { ...element };
+        if ("width" in element) {
+            newElement.style = `width: ${element.width}`;
+        };
+        return newElement;
+    });
+
+    return colGroup;
+};
+
 const buildLibrary = ({ inSource = {}, inResolveColumns } = {}) => {
     const localSource = inSource;
     const localResolveColumns = inResolveColumns;
@@ -13,6 +25,8 @@ const buildLibrary = ({ inSource = {}, inResolveColumns } = {}) => {
         })
         : (localSource?.columns || []);
 
+    const colGroup = buildColGroup({ inColGroup: localSource?.config?.colgroup });
+
     const stateData = cloneData({
         inData: localSource?.originalData,
         inActiveColumns: activeColumns
@@ -21,7 +35,8 @@ const buildLibrary = ({ inSource = {}, inResolveColumns } = {}) => {
     const serialResult = insertSerial({
         inColumns: activeColumns,
         inData: stateData,
-        inConfig: localSource?.config
+        inConfig: localSource?.config,
+        inColGroup: colGroup
     });
 
     const computedFooter = calculateFooter({
@@ -33,7 +48,8 @@ const buildLibrary = ({ inSource = {}, inResolveColumns } = {}) => {
         activeColumns: serialResult.columns,
         stateData: serialResult.data,
         computedFooter,
-        isSerialEnabled: serialResult.isSerialEnabled
+        isSerialEnabled: serialResult.isSerialEnabled,
+        colGroup: serialResult.colGroup
     };
 };
 

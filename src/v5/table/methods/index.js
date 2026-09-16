@@ -35,11 +35,12 @@ const createMethods = ({ inTable } = {}) => {
 
         const data = localTable.store.library.stateData;
 
-        console.log("data-------- : ", data);
+        const colGroup = localTable.store.library.colGroup;
 
         containerHeaderAndData({
             targetHtmlId, inColumns: activeColumns,
-            inData: data
+            inData: data,
+            inColGroup: colGroup
         });
     };
 
