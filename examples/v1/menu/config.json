@@ -1,0 +1,73 @@
+{
+    "targetContainerId": "header-container",
+    "mobileFlavor": "list",
+    "brand": {
+        "title": "Purchases",
+        "subtitle": "Hybrid Search & Table (v11)",
+        "iconText": "B",
+        "href": "./"
+    },
+    "items": [
+        {
+            "id": "home",
+            "label": "Home",
+            "icon": "bi-house",
+            "href": "#"
+        },
+        {
+            "id": "dashboard",
+            "label": "Dashboard",
+            "icon": "bi-speedometer2",
+            "href": "#"
+        },
+        {
+            "id": "orders",
+            "label": "Orders",
+            "icon": "bi-table",
+            "active": true
+        },
+        {
+            "id": "products",
+            "label": "Products",
+            "icon": "bi-grid",
+            "href": "#"
+        },
+        {
+            "id": "customers",
+            "label": "Customers",
+            "icon": "bi-people",
+            "href": "#"
+        },
+        {
+            "id": "reset",
+            "label": "Reset",
+            "icon": "bi-arrow-clockwise",
+            "class": "text-info",
+            "isAction": true,
+            "title": "Instantly reset filtered data without reloading page"
+        }
+    ],
+    "subHeader": {
+        "status": {
+            "id": "record-count-badge",
+            "label": "Status:",
+            "badgeText": "Loading records...",
+            "badgeClass": "badge bg-secondary"
+        },
+        "actions": [
+            {
+                "id": "header-reset-btn",
+                "label": "Reset Filters",
+                "icon": "bi-arrow-clockwise",
+                "class": "btn btn-sm btn-primary"
+            },
+            {
+                "id": "header-reload-btn",
+                "label": "Reload Server",
+                "icon": "bi-cloud-arrow-down",
+                "class": "btn btn-sm btn-outline-secondary",
+                "title": "Full refresh from server"
+            }
+        ]
+    }
+}
