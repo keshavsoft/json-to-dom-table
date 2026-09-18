@@ -1,5 +1,5 @@
-import { compile } from "../../../../../node_modules/json-to-spec/index.js";
-import { buildSpecElement } from "../../../../../node_modules/@keshavsoft/json-to-dom/index.js";
+import compile from "../../../../../node_modules/json-to-spec/index.js";
+import specToDom from "../../../../../node_modules/@keshavsoft/json-to-dom/index.js";
 
 import structureJson from './structure.json' with {type: 'json'};
 import dataJson from './data.json' with {type: 'json'};
@@ -9,9 +9,9 @@ const startFunc = ({ targetHtmlId, inColumns } = {}) => {
         let columns = {};
         columns.columns = inColumns;
 
-        const specAsJsonToDom = compile(structureJson, columns);
+        const specAsJsonToDom = compile({ specJson: structureJson, dataJson: columns, showLog: true });
 
-        const fromRenderer = buildSpecElement({ spec: specAsJsonToDom, targetHtmlId });
+        const fromRenderer = specToDom({ spec: specAsJsonToDom, targetHtmlId });
 
         return fromRenderer;
 

@@ -1,4 +1,4 @@
-import { compile } from "../../../../node_modules/json-to-spec/index.js";
+import compile from "../../../../node_modules/json-to-spec/index.js";
 import buildSpecElement from "../../../../node_modules/@keshavsoft/json-to-dom/index.js";
 
 import container from "../fromSpec/container/index.js";
@@ -10,7 +10,7 @@ import dataJson from './data.json' with {type: 'json'};
 
 const localRenderFromCdn = ({ inContainerId, inContainer, targetContainerId } = {}) => {
     try {
-        const specAsJsonToDom = compile(structureJson, dataJson);
+        const specAsJsonToDom = compile({ specJson: structureJson, dataJson: dataJson, showLog: true });
 
         const fromRenderer = buildSpecElement({ spec: specAsJsonToDom, targetHtmlId: "table-container" });
 
