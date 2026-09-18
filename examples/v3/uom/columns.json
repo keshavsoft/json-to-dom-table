@@ -1,0 +1,12 @@
+[
+    {
+        "key": "name",
+        "label": "name",
+        "type": "string"
+    },
+    {
+        "key": "originalName",
+        "label": "originalName",
+        "type": "string"
+    }
+]
