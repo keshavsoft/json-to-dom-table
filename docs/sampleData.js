@@ -35,6 +35,15 @@ export const sampleColumns = [
 
 export const sampleTableConfig = {
     "serial": true,
+    "colgroup": [
+        { "key": "serial", "width": "5%" },
+        { "key": "vchtype", "width": "15%" },
+        { "key": "vouchernumber", "width": "15%" },
+        { "key": "allinventoryentries.stockitemname", "width": "30%" },
+        { "key": "allinventoryentries.batchallocations.batchname", "width": "15%" },
+        { "key": "allinventoryentries.batchallocations.amount", "width": "10%" },
+        { "key": "allinventoryentries.batchallocations.actualqty", "width": "10%" }
+    ],
     "head": {
         "columns": [
             "vchtype",

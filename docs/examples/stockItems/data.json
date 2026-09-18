@@ -1,0 +1,6118 @@
+[
+  {
+    "name": "0.09/30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.11-25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.11-30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.11/32mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.11/35mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.13/32mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.14/30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.14/32mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.14/34mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.14/35mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.14/40mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.15/114mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.15/35mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/10mm",
+    "parent": " Primary"
+  },
+  {
+    "name": "0.16/114/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/12",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/125/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/14/500(N.P)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/16/500",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/17mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/18/500",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/19mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/20",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/21",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/22",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/24/400",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/26/400",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/28(N.P)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/30(N.P)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/32(N.P)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/34/100md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/34/85",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/35/85",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/36",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/36/85",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/38",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/40 Dk",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/40 MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/41",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/42MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/44/33 Sk",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/44 MM DK",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/46",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/48mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/56",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/60/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/65mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/70",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/75",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/85",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16/90",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.16 Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.18/34mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.19/38mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/100mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/108/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/114mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/125",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/137mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/150",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/16mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/20mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/24mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/26/130 KALAPET",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/27",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/28",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/32",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/33mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/34mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/36mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/37mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/38",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/39mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/40mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/41mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/42-J.P",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/44",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/46",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/48",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/52",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/57mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/65mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/68",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/70mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/75",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/81",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/85",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20/90",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.20 Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.20small Hks",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.23/100/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/100/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/100/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/100/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/100/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/100/45",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/100/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/100/75",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/108/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/108/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/108/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/108/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/110/110(N.P)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/110/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/114/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/114/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/114/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/120/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/120/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/125mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/127mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/130mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/135",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/137mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/140 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/150 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/155 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/16",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/160mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/165mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/170 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/175",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/180",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/187",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/187/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/18mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/22",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/230/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/24",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/26/600",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/28MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/31/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/31/500",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/32mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/34",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/36",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/37mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/38",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/41mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/42mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/44mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/48",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/50mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/52mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/53",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/53/110",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/54mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/55mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/56",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/56/125",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/65/50md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/68mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/70/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/70/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/75",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/85",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/90/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/90/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/90/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/90/45",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/90/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/90/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/95/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/95/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/95/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/95/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/95/45",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23/95/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.23 Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.23 SMALL HANK",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.23smallhks",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.25/24mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.25/26",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/100/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/100/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/100/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/100/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/102/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/102/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/102/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/102/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/108/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/108/22",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/108/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/108/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/100(N.P)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/20",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/22",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/114/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/120MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/125MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/127/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/130/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/135mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/137",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/150 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/160mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/175MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/180 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/187",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/200/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/20mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/210/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/220mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/225/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/230/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/26mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/275/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/28mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/36",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/44MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/52/200",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/52/400",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/53mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/54/150 Md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/54/200",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/54/250",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/54/400",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/54/600",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/56/400",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/57mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/58",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/70",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/75mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/85/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/90/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/90/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/90/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/92/50B",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/92/50W",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/95/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/95/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/95/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28/95/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.28 Blue Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.28 SMALL HANK",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.28small Hanks Kgs",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.30/140",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.30/150mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/100mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/102/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/10.5\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/114/90",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/114mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/116mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/120MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/125MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/130MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/135",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/140",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/150",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/154",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/155mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/160",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/168mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/170mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/175/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/180/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/187/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/200MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/210/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/215mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/220mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/225/600 Md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/230MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/235/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/240MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/24mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/250",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/26mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/300/200",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/36mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/400mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/40 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/42MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/44mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/52/500",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/52/600",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/58mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/67",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/72",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/75",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/85mm/100md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/90",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32/95",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.32 Green Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.32 Hanks",
+    "parent": "TWINE"
+  },
+  {
+    "name": "032MONO",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.32 Mono Red",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.32 SMALL HANK",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.40/130",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/140",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/155",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/160",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/170",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/175",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/180",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/185",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/190",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/200mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/215mm/50md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/225",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/250mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/42",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/44 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/64mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/66 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/70/400",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40/98",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.40 Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.40 Hanks",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.40 Mono Red",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.40 Small",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.45/120mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.45/140 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.45/150",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.45/180",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.45/46mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.45/68mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.45 Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.45 Hanks",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.45 Mono Red",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.50/10",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/120",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/12 GNETS",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/140",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/14 GNETS",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/16",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/18 GNETS",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/20",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/22",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/220mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/26mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/28",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/32",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/45",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/70/300 G",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/75/150",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/80/160",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/85mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/8 MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50/90/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.50 Hanks",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.50 Mono Red",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.55 White",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.60/100/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/108",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/114mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/125",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/135",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/145/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/150",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/180",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/40mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/50mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/80/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60/90/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60 Blue",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.60 MONO",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.60 White",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.65 Blue",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.70 Blue",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.70 White",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.75/120 Hdpe Net",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/14",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/140/20md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/16",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/18",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/20 GSTD",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/25",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/35",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/45",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/70",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/75",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/80/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/85/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/90/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/90/35md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.75/90/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.80/75",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.80/90",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.80 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.80 Blue NP",
+    "parent": "TWINE"
+  },
+  {
+    "name": "0.80 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.85(12ply)50mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.85(12 Ply) 60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.85(12ply)70mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.85(12ply)80mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.85/16",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.85/18GNET",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.85/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.90/190/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.90/200",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "0.90 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "0.90 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1\"-Gum Tapes",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "1000 MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "1.00/100mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/120",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/160",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/18",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/20 G",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/22",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "100*60 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1.00/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00/90/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.00 Blk Line",
+    "parent": "TWINE"
+  },
+  {
+    "name": "1.00 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "100 Hd",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "100mesh Twill",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "100 MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "1.00 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "10*21-200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "10/3-140MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "10/3-16mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "10/3-84mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "10*6.5 Silver",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "1.10/210mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.10/215",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.10 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1.10 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1.20 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "120 Hd",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "120 MESH",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "1.20 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1/2-10MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-114mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*12 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*12 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*12 BLUE TAR",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-12MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*12 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*12 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*12 Tech 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-14MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*15 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*15 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*15 BLU TAR",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*15 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*15 Sil 150",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*15 SIL 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "1/2-16MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*18 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*18 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*18 BLU TARP",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-18MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*18 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*20 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-20MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-22MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*24 120 Sil",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*24 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12*24 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-24MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*24 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-26MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-28MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*30 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*30sil120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "12/3-140 (150)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12/3-18mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12/3-430MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-34MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*36 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-36MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12/3-80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-38MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-4\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*40 200",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1/2-40MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-42MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-44MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-46MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12*50 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1.25/120",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/160",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/18MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/20",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/200",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/240/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/300/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/400/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/45/300",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/500/50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.25/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1260D-2 Ply 90mm",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "1260D4ply Nets",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1260D-6/2ply-86mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-8MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-90",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/2-9mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "12 Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "12mtr*16mtr-(40.5*53)Sil120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1.30 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1.30 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1/3-10MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-120",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-12MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-14MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-16MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-18MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-20MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-22MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-23mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-24MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-26MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-28MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-32MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-4\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-4.5\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-5\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-52MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-6\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-6mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-7\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-75MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-80MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/3-8MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.40 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "140 Mesh Twill",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "1.40 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1/4-38MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/4-40MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1/4-44 DISCO",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/120mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/140/100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/200mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/20MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50(24ply)135mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50(24ply)30mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50(24ply)40mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50(24ply)60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50(24ply)80mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/300mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50-45mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/50mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/600mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50/60mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "1.50 Blk Line",
+    "parent": "TWINE"
+  },
+  {
+    "name": "1.50 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "150MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "1.50 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "15*15 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*15 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*18 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*18 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*18 BLUE TAR",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1.5/18MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "15*18 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*18 Sil 150",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*18 Sil 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "15*21 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*24 200 Gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15*30",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "15/3-155-75MD",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "15/3-20mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "15*45",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1.60 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "160hd",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "1.60 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "16*24 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "16*27 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "16*30 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "16*30 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "16 Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "1.70 Blue",
+    "parent": "TWINE"
+  },
+  {
+    "name": "1.70 White",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1.80 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1.80 Superline",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "1.80 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "18*19.5 Sil 120(4.80mtr*5.90mtr)",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*21 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 150 SIL",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 BLU TARP",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 Canvas",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 Sil 150",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*24 Sil 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "18*24 Tech 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*30 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*30 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*30 Sil 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "18*30 Sil 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "18*32 120 Sil",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*36 200 Gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "18*36 Sil 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "18/3-NET",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "18*40 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "1.90 White",
+    "parent": "TWINE"
+  },
+  {
+    "name": "2\"GUM TAPE",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "2.00/100mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/110mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/145mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/1500/20MD",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/150mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/155",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/160",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/175mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/200mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00(36ply)/1000mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00(36ply)/300 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00(36ply)/600mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/46/300",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/50mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00/80 mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.00 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "200 Hd",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "200MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "2.00 WHITE F.Line",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "20*20-200 Gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "20*20 Cotton",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "20*20 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "20*20 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "20*24 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "20*40 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "20*40-Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "20-MAYUR",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "20 Mesh 120\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "20 Mesh 84\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "20 Mesh Mq",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "20pf",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "20 Rp",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "20-SHRADHA-48\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "20 x 48 Sil Trans 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "2.10 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "21*21 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "21*24 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "21*30 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "2.20 Blk",
+    "parent": "TWINE"
+  },
+  {
+    "name": "2.20 BLUE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "2.20 WHITE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "2/2-130mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-140mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-16",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-18MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-20MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-22mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-23mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-24mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-26mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-28MM NAIK",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-32MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/2-5\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.25 Line",
+    "parent": "TWINE"
+  },
+  {
+    "name": "225MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "2/3-10MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-12MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-140",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-14MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-16MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-18MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-190",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-20MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-22MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-24MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-265MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-26MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-28MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-32",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-34MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-36MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-38MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-4\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-40MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-42MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-44MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-45mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-46mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-47mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-48mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-5\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-50mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-52mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-5.5\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-6\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-62MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-6.5\" >",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-75/100 DAMAN",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-8MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-9\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2/3-90",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "24*24 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*27 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*27 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*27 BLU TARP",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*27 SIL 120G",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "24*27 Sil 150",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*27 SIL 90G",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "24*30 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*30 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*30 Sil120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*30 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*33 120 SIL",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*33 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*33 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*33 90 SIL",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*33 Tech 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*33 Tech 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*36-120 Sil",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*36 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*36 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*37 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*40 200",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*40 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*45 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24*45 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "24-ASMITA-48\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "24 Blue Pf",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "24 Green Pf",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "24 Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "2.5\" Octopus",
+    "parent": "CHINESE LURE"
+  },
+  {
+    "name": "2.50/150mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.50/40mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.50/45mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.50/5000mm",
+    "parent": " Primary"
+  },
+  {
+    "name": "2.50/60",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.50/80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.50 Blk",
+    "parent": "Blk Line"
+  },
+  {
+    "name": "250 Hd",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "250micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "2.50 White F.Line",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "25*25- 200 GSM",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "2.5/50MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "2.5/80MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "26GG",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "27*30 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "27*30 Sil 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "27*30 Sil 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "27*30 Tech 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "27*30 Tech 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "27*35 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "27*35 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "27*35 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "27*35 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "27*38 200 Gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "28*35 Tarp",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "28 Mesh Blue",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "2MM/200",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3\"GUMTAPES",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "3\"OCTOPUS",
+    "parent": "LURES"
+  },
+  {
+    "name": "3.00/60mm Hdpe",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3.00 Blk Line",
+    "parent": "Blk Line"
+  },
+  {
+    "name": "3.00 Blue",
+    "parent": "TWINE"
+  },
+  {
+    "name": "3.00 WHITE F.Line",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "30*30 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*30  200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*30 BLUE TAR",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*30 Sil 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "30*30 SIL 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "30*30 Tech 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*33 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*36-150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*36 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30/3-65mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "30*36 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*40 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*40-200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*40 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "30*40 SIL 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "30*50",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "3.0/60 MM GARWARE",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "30 Blue Pf",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "30-MADHURAM-48\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "30 Mesh Mq",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "30 Pink",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "30ply 135 mm Hdpe",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "30 Ply 138mm Hdpe",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "30 White",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "315MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "32*64 (13mtr*20mtr)",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "3.2 Tuna Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "3/3-10.5\"",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-10mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-14MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-16MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-18mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-20MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-22mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-24mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-26MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-28mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-32",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-36MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-38MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-40 MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-42 MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-44MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-45mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-46",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-58MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-6\"(152mm)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-63MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-80/130 GOLDUN",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3/3-90-100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "3.4 Tuna Hook",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "3.5\"OCTOPUS",
+    "parent": "LURES"
+  },
+  {
+    "name": "3.50 Blk",
+    "parent": "Blk Line"
+  },
+  {
+    "name": "350hd",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "350 Micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "3.50 White F.Line",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "3.60 Fline",
+    "parent": "TWINE"
+  },
+  {
+    "name": "36GG",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "3.80 Blk",
+    "parent": "TWINE"
+  },
+  {
+    "name": "38*72 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "4\"OCTOPUS",
+    "parent": "LURES"
+  },
+  {
+    "name": "4.0\" Octopus",
+    "parent": "LURES"
+  },
+  {
+    "name": "4.00 Blk",
+    "parent": "TWINE"
+  },
+  {
+    "name": "400 Micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "4.00 White F.Line",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "40*40 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "40*40 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "40*40 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "40*40 SIL 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "40*50 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "40*50 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "40*60 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "40 Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "40mesh Nylon",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "40-PUSHPAM-48\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "42*80-Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "42 ft X48 ft",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "4.2 Tuna Hooks",
+    "parent": " Primary"
+  },
+  {
+    "name": "42 x 50 Sil Trans 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "42 x 71 Sil Trans 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "4/3-108MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-12MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-18MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-20mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-26MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-28",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-32",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-34mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-35mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-36MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-38MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-40MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-42MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-44MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-46",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-52",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-56",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-65mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-75MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "4/3-90mm-",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "450 Hd",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "45 MONO RED",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "48*48 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "4mesh Blue",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "4-M HOOKS",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "4mm Line",
+    "parent": "TWINE"
+  },
+  {
+    "name": "5\"OCTOPUS",
+    "parent": "LURES"
+  },
+  {
+    "name": "500MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "5.00mm Blk",
+    "parent": "TWINE"
+  },
+  {
+    "name": "50*115 70gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "50*50 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "50*50 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "50*50 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "50*55 70gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "50*60 70gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "50*60 Sil120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "5/3-110-110",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "5/3-24",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "5/3-30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "5/3-34",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "5/3-36 MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "5/3-52mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "54*164 Sil",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "5-M HOOKS",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "5micron-80\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "600micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "60*40",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "60*40 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "60*40 SIL 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "60*50 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "60*50 Sil 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "60*60 120gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "60*60-200",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "60*60 90gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "60*60 Sil 150",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "60 Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "60mesh Nylon",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "6/3-100-20 Md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-10MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-110-110MD",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-120",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-140MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-32mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-34",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "63*35 Trans 120 Tech",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "6/3-36MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-38MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-40",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-42MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-46MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-52MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-65",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-74mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6/3-80mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "6*4 COTTON MNETS",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*4 Gold",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*4 PLATIMUM MNETS \"c\"",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*4 SALEM MNETS",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*4 Sil 70",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "6*4 Sil90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "6*4 SILVER MNETS 'D'",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*4 Super",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "6.5*3 Gold",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6.5*-7.5* C Platinum",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "6*5-Silver",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*6 COTTON MNETS",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*6 DIAMOND",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*6 PLATINUM MNETS \"C\"",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*6 SALEM MNETS",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*6 Sil90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "6*6 SILVER MNETS \"D\"",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*6 Super",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "6*7 C",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "68GG",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "6mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "6mesh Blue",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "700MICRON",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "72*70 150 Sil",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "7/3-100",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "7/3-110-50",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "7/3-145mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "7/3-73MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "7/3-76mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "7.5*7.5 Silver",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "7*8 C Platinum",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "7*8 D Silver",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "800 Micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "80*60 Sil 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "80*60 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "80*80 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "80-Mesh 48\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "8*25 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "8/3-100MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-110MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-125",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-135",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-138mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-140MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-142",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-144",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-145",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-150",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-30MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-36mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-72",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-74",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-76",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8/3-80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "8*6.5 Silver",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "8 Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "8XXX IMP",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "90/40 A Qlt",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "9*12 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*12 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*12 BLUE TAR",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*12 SIL 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "9*12 SIL 70",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "9*12 SIL 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "9/3-125mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-130-30",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-140mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-141mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-142mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-143mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-144mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-145mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-75mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-76",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-78",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3-80",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9/3 Nets for Scheme",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "9*6 150gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*6 200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*6 BLUE TAR",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*6 Sil 120",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*6 Sil 90",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*9-150 Gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*9-200gsm",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*9 BLUE",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "9*9 SIL 120",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "9*9 SIL 90",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "9XXX IMP",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "AABL2-Ands-150",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "A/c Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "ADFL-300 W",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ADFL-50 W",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Adhanya-Knitted Fabric Mtrs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "ADSL100W Street Light",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "AGNI",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Airpump",
+    "parent": " Primary"
+  },
+  {
+    "name": "Ali Pvc Sheet",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Anchor Gaff Hooks",
+    "parent": "ANCHOR HOOKS"
+  },
+  {
+    "name": "Anchor Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Ancora Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Ancora Loose",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Ands-325",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands345",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-1195",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-145",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-1495",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-195",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-255 DBR-1",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-325",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-55",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-595",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-75",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-99",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite AAHR-2",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Accessories",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Acupressure",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Adaptor",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Bagula-2 Pro",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Battery",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Beam",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Bolt (Solar Recharble)",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Capture (Solar Rechgble)",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE CROWN",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Dbex-2",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "AndsliteDBEX4",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Dmrx3",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Dmrx4",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE HEAD LIGHT",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Inverter-5995/-SHL-2",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Inverter-Lhl1",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Jupiter(Solar Rechgble)",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE-KISHAN-995",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ANDSLITE LANTERN",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite  Led Bulb",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite LIRT",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Luster",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Mosquito Bat",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Nano",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Nano Eco",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Powerstar",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-RHL-1",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-RHL-2",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-RHL-3 (W/o Charger)",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Rider",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Rwgs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Andslite-SHL-1-3995/-Inverter",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Solar Combo Pack",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite-Solar Panel",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Andslite Vip Plus",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands-Metal Torch",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands-Nano XL",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands-Ranger",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands-Shine",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands Studylite",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands Tejas",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands-Tejas Shakti",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ands Vip",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Arrow Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Arrow Hooks Loose",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "BAGCLOSER",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Bagnet(Chikkam)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Bag Net -Kgs-Chikkam",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Bajaj Lights",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Baliga Floats",
+    "parent": "PLASTIC FLOATS"
+  },
+  {
+    "name": "Baliga Lines",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Barbed Wire Poly",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Barra Spoon",
+    "parent": "HALCO"
+  },
+  {
+    "name": "Barrel Swivel",
+    "parent": "SWIVELS"
+  },
+  {
+    "name": "Basins",
+    "parent": " Primary"
+  },
+  {
+    "name": "BAT",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "BATTERY",
+    "parent": "LURES"
+  },
+  {
+    "name": "Bekohooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Big Hole-Knitted Fabric Mtrs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Bike Covers",
+    "parent": "COVERS"
+  },
+  {
+    "name": "Bleaching Hapa",
+    "parent": " Primary"
+  },
+  {
+    "name": "Blesso Fish",
+    "parent": "CHINESE LURE"
+  },
+  {
+    "name": "BOARD",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "BOAT NET",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "BOBBINS",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Braided Lines Twisted",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Braided Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Braided Twine",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Branch Swivels",
+    "parent": "SWIVELS"
+  },
+  {
+    "name": "Bubble Wrap",
+    "parent": " Primary"
+  },
+  {
+    "name": "Budithi",
+    "parent": " Primary"
+  },
+  {
+    "name": "Buditi Kgs",
+    "parent": "LEAD"
+  },
+  {
+    "name": "BULLETS Rubber",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "C-1\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "C-1.5\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "C-2.5\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "Canvas Cloth",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Car Covers",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Carrybags",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "CAST NET",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Cbm Led",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "CE121",
+    "parent": "NETLON"
+  },
+  {
+    "name": "Cell Phone Covers",
+    "parent": "COVERS"
+  },
+  {
+    "name": "Chainlink Mesh PET",
+    "parent": "NETLON"
+  },
+  {
+    "name": "CHECKTRAY",
+    "parent": "CHECK TRAY"
+  },
+  {
+    "name": "Check Tray Frames",
+    "parent": "CHECK TRAY"
+  },
+  {
+    "name": "Checktray Stitched",
+    "parent": "CHECK TRAY"
+  },
+  {
+    "name": "Circle Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "CLIPS",
+    "parent": "ANCHOR HOOKS"
+  },
+  {
+    "name": "C.OCTOPUS",
+    "parent": "LURES"
+  },
+  {
+    "name": "Combo Fish Box (Y)",
+    "parent": "LURES"
+  },
+  {
+    "name": "Concrete Tapes",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Copper Sleeves",
+    "parent": "LURES"
+  },
+  {
+    "name": "CORDEND",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Cow Mat",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Cr Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Crown Hooks Loose",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "C.WIRE",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Diving Board",
+    "parent": "HALCO"
+  },
+  {
+    "name": "Drag Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "DUCT TAPES",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Dura Protector",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Durowipe",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Dye Loose",
+    "parent": "DYES"
+  },
+  {
+    "name": "DYES",
+    "parent": "DYES"
+  },
+  {
+    "name": "EPS SHEETS",
+    "parent": "E.P.S.SHEETS"
+  },
+  {
+    "name": "Eveready CFL",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Eveready Charger",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Eveready DL 51",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Eveready DL66",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Eveready Dl91 Rechble",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Eveready Fm Radio",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Eveready Lantern",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Export Surplus Line",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Export Surplus New",
+    "parent": "TWINE"
+  },
+  {
+    "name": "F8 Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Face Shield",
+    "parent": " Primary"
+  },
+  {
+    "name": "Fishing Reel(Rod)",
+    "parent": "FISHINGROD"
+  },
+  {
+    "name": "FISHING ROD",
+    "parent": " Primary"
+  },
+  {
+    "name": "Fishing Rod Stick",
+    "parent": "FISHINGROD"
+  },
+  {
+    "name": "FISH LINE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Fishnet",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "FLASHLIGHT",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "F/LIGHT DOUBLE",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "F/light- Pencell",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "F/LIGHT SINGLE",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "F/light Triple",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "F.LINE PKTS",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "FLOATS",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 100/20",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "FLOATS 100*75",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "FLOATS 110*90",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 125/20",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 125/75",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats150*20",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 150*20 B Quality",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 150/40",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 175/20",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 209",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 60*50",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 65*40",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 65*60 (Small Egg)",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 70/20",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 70*30",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 76*38",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats 80*60",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "FLOATS 90*65",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Floats Kapasi Kgs",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "FLOATS PCS",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "FLOATS SCRAP",
+    "parent": "FISHING FLOATS"
+  },
+  {
+    "name": "Fruit Bag Mtrs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Fruit Bag Nos",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Fruit Bags Kgs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Garbage Bags",
+    "parent": "COVERS"
+  },
+  {
+    "name": "Garden Mesh",
+    "parent": "NETLON"
+  },
+  {
+    "name": "Garfil Std Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Gargil 12/150mm/85md",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Gargil Twine",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Gd 100gms Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "GD 25gms Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Gd 50gms Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "GD Connected",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Geo Membrane",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "G.I.Wire Tata",
+    "parent": "STEEL WIRE"
+  },
+  {
+    "name": "Glass Fish",
+    "parent": "HALCO"
+  },
+  {
+    "name": "Gloves",
+    "parent": " Primary"
+  },
+  {
+    "name": "Gmd Lines",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Gopika-Knitted Fabric Mtr",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Gps",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Gps Covers",
+    "parent": "COVERS"
+  },
+  {
+    "name": "Green Tubes",
+    "parent": "SWIVELS"
+  },
+  {
+    "name": "G ROPE",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Gunny Bags",
+    "parent": " Primary"
+  },
+  {
+    "name": "HALCO-120",
+    "parent": "LURES"
+  },
+  {
+    "name": "HALCO-140",
+    "parent": "HALCO"
+  },
+  {
+    "name": "HALCO-95",
+    "parent": "LURES"
+  },
+  {
+    "name": "HALCO-D",
+    "parent": "LURES"
+  },
+  {
+    "name": "Halco Original",
+    "parent": "LURES"
+  },
+  {
+    "name": "Hapa",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Harvestnets(Gwrl)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Harvest Nets(Toka Vala)",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Hatchery Bat",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "Hatchery Bat Stitched",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "Hdpe Knotless 10mm 48ply",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "HDPE NET CUTS",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Hdpe Twine Small",
+    "parent": "TWINE"
+  },
+  {
+    "name": "HDP LINE",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Head Light Rechagrble",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Heat Sealin Machine",
+    "parent": " Primary"
+  },
+  {
+    "name": "HOOKS",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Ice Box",
+    "parent": "CHECK TRAY"
+  },
+  {
+    "name": "Ice Box Accessories",
+    "parent": "Trays"
+  },
+  {
+    "name": "Insulation Tapes",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Iron Bats Stitched",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "Iron Coated Mesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Iron Needles",
+    "parent": "NEEDLES"
+  },
+  {
+    "name": "I.R.Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Jig",
+    "parent": "HALCO"
+  },
+  {
+    "name": "JK Fish",
+    "parent": "CHINESE LURE"
+  },
+  {
+    "name": "Jumbo Bags",
+    "parent": "COVERS"
+  },
+  {
+    "name": "Jungle Cloth",
+    "parent": " Primary"
+  },
+  {
+    "name": "K.Export",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Knife",
+    "parent": "KNIFE"
+  },
+  {
+    "name": "KNOTLESS 10MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "KNOTLESS 2/3 12mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "KNOTLESS 2MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Knotless 4mm Sf",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Knotless5mm Sf",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "KNOTLESS 6MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "KNOTLESS 8MM",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Kodi Butta",
+    "parent": " Primary"
+  },
+  {
+    "name": "Kodi Tadu",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Kohinoor Std Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Kolkata Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Kumaran Connected",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Kumaran Std Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Landing Net",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "LEAD",
+    "parent": "LEAD"
+  },
+  {
+    "name": "Lead Fish",
+    "parent": "HALCO"
+  },
+  {
+    "name": "LG Hardtwist Ropes",
+    "parent": "ROPE"
+  },
+  {
+    "name": "LIFE BUOY",
+    "parent": "LIFE BUOY"
+  },
+  {
+    "name": "LIFE JACKET",
+    "parent": "LIFE JACKETS"
+  },
+  {
+    "name": "Life Jacket Light",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Light Stick",
+    "parent": "LURES"
+  },
+  {
+    "name": "Limirick Ring Hooks Viaadi",
+    "parent": " Primary"
+  },
+  {
+    "name": "Long Bulb Sotelo",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "LOOP",
+    "parent": "LOOP"
+  },
+  {
+    "name": "Lucana Lights",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Lucana Triple",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "LURES-120MM",
+    "parent": "LURES"
+  },
+  {
+    "name": "LURES-150MM",
+    "parent": "LURES"
+  },
+  {
+    "name": "LURES-180MM",
+    "parent": "LURES"
+  },
+  {
+    "name": "Magnet Mosquito Curtains",
+    "parent": "Mosquito Mesh"
+  },
+  {
+    "name": "Mango Cutter",
+    "parent": "KNIFE"
+  },
+  {
+    "name": "Mask(Dive Mask)",
+    "parent": "LIFE JACKETS"
+  },
+  {
+    "name": "MASTIC PADS",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Mcf-1.5kgs (C.D. Brand)",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf-1.75kg",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf-Anjani",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Bangladesh",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Hanuman",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Honda-1.9kg",
+    "parent": " Primary"
+  },
+  {
+    "name": "Mcf Kangaroo-54\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Metro-2.4kgs",
+    "parent": " Primary"
+  },
+  {
+    "name": "Mcf-Motor Cycle",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Priyagold-54\"",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Priyalite",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Priyalite Blue",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Priyalite Green",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Scorpio",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf-Sumo-4kgs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Sunflower 3.1 Kgs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf-Sunflower (PF)",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Sunlite (1.7kgs)",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Suvasini",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mcf Tamoto 2.1kgs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mix Net",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Mody-EVA Tarpaulins",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Mono Bobbins",
+    "parent": "TWINE"
+  },
+  {
+    "name": "MONOCUTS",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Mono Reels Small",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Mono Shadenet Kgs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mono Shading Net",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Mooring Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Mosq Mesh",
+    "parent": "Mosquito Mesh"
+  },
+  {
+    "name": "Mosq Nets for Pipes",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "Mosq Nets Hosur",
+    "parent": "MOSQUITO NET"
+  },
+  {
+    "name": "Mosquito Bat",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Mulching Film",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Mulching Film-Kgs",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Mustad Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Mustad Hooks New",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "N-10CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-12CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-2.5\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-2.5cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-3\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-3.5\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-3CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-4.\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-4.5\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-4CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-5\"",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-5CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-6CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-7CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "N-8CM",
+    "parent": "LURES"
+  },
+  {
+    "name": "Needle Baits",
+    "parent": "LURES"
+  },
+  {
+    "name": "NEEDLES",
+    "parent": "NEEDLES"
+  },
+  {
+    "name": "NETLON",
+    "parent": "NETLON"
+  },
+  {
+    "name": "Nippo Bingo",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Nippo Black Berry",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Nippo Bodygaurd",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Nippo Radium",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Nippo Rechargable Lights",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Nippo Watt Lite",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Nippo Zoom Lite",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Non Woven 100micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Non Woven 150micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Non Woven 200micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Non Woven 5  Micron",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Non Woven Fabric Hyloft",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "N.ROPE",
+    "parent": "ROPE"
+  },
+  {
+    "name": "NYLON",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Nylon Cheeses",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Nylon Cheeses Kgs",
+    "parent": " Primary"
+  },
+  {
+    "name": "NYLON CUTS",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Nylon Kl 22 12mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Nylon Kl 22 14mm",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Nylon Reels",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Nylon Reels Nos(Small)",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Nylon Tarpaulins Nos",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Nylon Tarp Kgs",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Nylon Tarp Roll",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "OCTOPUS",
+    "parent": "LURES"
+  },
+  {
+    "name": "Oldnet",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Orkia Rechgble Lights",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Pandiri Vala",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Para Anchor",
+    "parent": "SWIVELS"
+  },
+  {
+    "name": "Para Anchor Cloth",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Para Anchor Small",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Parachute Cloth",
+    "parent": " Primary"
+  },
+  {
+    "name": "PET Clear Line Sfil",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Picker Head Light",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Plankton Net",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "Plant Covers",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Plastic Floats(Pcs)",
+    "parent": "PLASTIC FLOATS"
+  },
+  {
+    "name": "Plates",
+    "parent": " Primary"
+  },
+  {
+    "name": "Polyester Net",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Poly House Film",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Poly Nylon",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Poly Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Poosa Tadu",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Pp Bags",
+    "parent": " Primary"
+  },
+  {
+    "name": "Pp Braided Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "PPE Kits",
+    "parent": "WORK WEST"
+  },
+  {
+    "name": "PPMF Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "PPMF TWINE",
+    "parent": "NYLON FISHNET"
+  },
+  {
+    "name": "Praise Fish",
+    "parent": "CHINESE LURE"
+  },
+  {
+    "name": "P.SHEET",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "P Sports Fish",
+    "parent": "HALCO"
+  },
+  {
+    "name": "Pvc Sheet",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Pvc Tarpaulin Mtr",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "RAFIA",
+    "parent": "RAFIA"
+  },
+  {
+    "name": "Rain Coats",
+    "parent": "COVERS"
+  },
+  {
+    "name": "Rain Covers",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Rechargable Lights",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Ring Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "RINGS",
+    "parent": "RINGS"
+  },
+  {
+    "name": "Roadwaste",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "ROD",
+    "parent": "FISHINGROD"
+  },
+  {
+    "name": "ROPE",
+    "parent": "ROPE"
+  },
+  {
+    "name": "ROPENET",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Rope Reel",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Rose Knitted Fabric Mtrs",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Rp Rope",
+    "parent": "ROPE"
+  },
+  {
+    "name": "Rubber Fish",
+    "parent": "HALCO"
+  },
+  {
+    "name": "Safety Net",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Saint Gobain",
+    "parent": "Mosquito Mesh"
+  },
+  {
+    "name": "Sanitizer",
+    "parent": " Primary"
+  },
+  {
+    "name": "Scooping Net",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Scooping Net New",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Self Adhesive Sticker Tape",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "SGN Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Shackles",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Shadenet Colour",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Shadenet Sail",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "SHADING NET",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Shading Net Kgs",
+    "parent": " Primary"
+  },
+  {
+    "name": "Ship /double",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Shop Octopus",
+    "parent": "CHINESE LURE"
+  },
+  {
+    "name": "Showway",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Shrimps",
+    "parent": "CHINESE LURE"
+  },
+  {
+    "name": "Sil Kgs",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Sil Mtrs Ljute",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "SILPAULIN 120 Sizes",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Silpaulin Neo",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Silpaulin Sathi",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Silpaulin Sathi Mtrs",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Single Bulbs",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "SLEEVES",
+    "parent": "SWIVELS"
+  },
+  {
+    "name": "Snaps",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Sotelo Lights",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Sotelo Single Color",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Spool",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Spoon Scoops",
+    "parent": " Primary"
+  },
+  {
+    "name": "Sports Fish",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "SQUID",
+    "parent": "SQUID"
+  },
+  {
+    "name": "Sreema Lines",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Star Indian Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Star Lines",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Steel Bat",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "Steel Bat Sticthced",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "STEELWIRE",
+    "parent": "STEEL WIRE"
+  },
+  {
+    "name": "Steel Wire Kgs",
+    "parent": "STEEL WIRE"
+  },
+  {
+    "name": "Steel Wire Loop",
+    "parent": "STEEL WIRE"
+  },
+  {
+    "name": "Steel Wire Small",
+    "parent": "STEEL WIRE"
+  },
+  {
+    "name": "Sticker",
+    "parent": " Primary"
+  },
+  {
+    "name": "STRAP",
+    "parent": "STRAP"
+  },
+  {
+    "name": "STRAP 12MM BIG",
+    "parent": "STRAP"
+  },
+  {
+    "name": "Stretch Film Or Wrapping",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Superfil Bobbins Nos",
+    "parent": " Primary"
+  },
+  {
+    "name": "Superfil Export Surplus Black",
+    "parent": "Blk Line"
+  },
+  {
+    "name": "Superline",
+    "parent": "TWINE"
+  },
+  {
+    "name": "Superline Connected",
+    "parent": "TWINE"
+  },
+  {
+    "name": "SUTALI",
+    "parent": "SUTALI"
+  },
+  {
+    "name": "Swan Hooks (Indian)",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Swan Loose Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "S.Wire",
+    "parent": "STEEL WIRE"
+  },
+  {
+    "name": "SWIVELS",
+    "parent": "SWIVELS"
+  },
+  {
+    "name": "Swivel with Snap",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "TAPE",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Tarpaulin",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Tarpaulin Kgs",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Tarpaulin Tape",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "Tarp-Shading Net",
+    "parent": " Primary"
+  },
+  {
+    "name": "Tarp Tape Mtrs",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Techpaulin Mtrs",
+    "parent": "TARPAULIN"
+  },
+  {
+    "name": "TENNIS NET",
+    "parent": "FISH  KNITTED FABRIC"
+  },
+  {
+    "name": "Tiger-Knitted Fabric",
+    "parent": "Mosquito Mesh"
+  },
+  {
+    "name": "TINSEL",
+    "parent": "LURES"
+  },
+  {
+    "name": "Tinsel-Y",
+    "parent": "LURES"
+  },
+  {
+    "name": "Tinsel Zari Patty",
+    "parent": "LURES"
+  },
+  {
+    "name": "TONGUE",
+    "parent": "HALCO"
+  },
+  {
+    "name": "Torpedo",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "Transparent Sheet",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "TRAYS",
+    "parent": "CHECK TRAY"
+  },
+  {
+    "name": "Triple Hooks Young",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Tube Octopus",
+    "parent": "CISCO"
+  },
+  {
+    "name": "Tuf Std Rope Danline",
+    "parent": "ROPE"
+  },
+  {
+    "name": "TWINE",
+    "parent": "TWINE"
+  },
+  {
+    "name": "VELCRO",
+    "parent": "VELCRO"
+  },
+  {
+    "name": "Velcro Sticker",
+    "parent": "VELCRO"
+  },
+  {
+    "name": "Vermibed",
+    "parent": "COVERS"
+  },
+  {
+    "name": "VEST (WORKWEST)",
+    "parent": "WORK WEST"
+  },
+  {
+    "name": "Viaadi Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Viaadi Loose Hooks",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Viaadi Ring Hooks -1962 R",
+    "parent": "FISHING HOOKS"
+  },
+  {
+    "name": "Waste Bin Nilkamal",
+    "parent": "Trays"
+  },
+  {
+    "name": "Water Proof Cloth",
+    "parent": "COVERS"
+  },
+  {
+    "name": "Waterproof Tape",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Water Proof Tape Mtrs",
+    "parent": "DUCT TAPES"
+  },
+  {
+    "name": "Weedmat",
+    "parent": "POLYTHIN SHEET"
+  },
+  {
+    "name": "Wire Rope",
+    "parent": "Wire Rope"
+  },
+  {
+    "name": "Wooden Bat Stitched",
+    "parent": "BAT (WOODEN)"
+  },
+  {
+    "name": "WOVENFABRIC",
+    "parent": "WOVEN FABRIC"
+  },
+  {
+    "name": "Xenon Light",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "XL Bond Sizes",
+    "parent": "SILPAULIN"
+  },
+  {
+    "name": "Y- 10cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 11cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 12cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 15cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 20cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 3cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 4cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 6cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y- 8cm",
+    "parent": "LURES"
+  },
+  {
+    "name": "Ybarrel Swivels",
+    "parent": "SWIVELS"
+  },
+  {
+    "name": "Y Cones",
+    "parent": " Primary"
+  },
+  {
+    "name": "Y Octopus-Mix in inch",
+    "parent": "LURES"
+  },
+  {
+    "name": "Y Sports Fish",
+    "parent": "LURES"
+  },
+  {
+    "name": "Yuli",
+    "parent": "FLASH LIGHT"
+  },
+  {
+    "name": "ZARI-BOBBINS",
+    "parent": "RIBBONS"
+  },
+  {
+    "name": "Zari-Ribbons",
+    "parent": "LURES"
+  },
+  {
+    "name": "ZARI-ROOPAM",
+    "parent": "RIBBONS"
+  },
+  {
+    "name": "ZARI-YCONE",
+    "parent": "RIBBONS"
+  }
+]
