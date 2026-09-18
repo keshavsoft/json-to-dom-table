@@ -1,5 +1,5 @@
 import { compile } from "../../../../node_modules/json-to-spec/index.js";
-import { buildSpecElement } from "../../../../node_modules/@keshavsoft/json-to-dom/index.js";
+import buildSpecElement from "../../../../node_modules/@keshavsoft/json-to-dom/index.js";
 
 import container from "../fromSpec/container/index.js";
 import containerAndHeader from "../fromSpec/containerAndHeader/index.js";

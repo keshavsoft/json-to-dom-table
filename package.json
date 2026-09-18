@@ -32,7 +32,7 @@
     "vite": "^5.4.2"
   },
   "dependencies": {
-    "@keshavsoft/json-to-dom": "^1.31.3",
+    "@keshavsoft/json-to-dom": "^1.39.1",
     "json-to-spec": "^20.1.1"
   }
 }
