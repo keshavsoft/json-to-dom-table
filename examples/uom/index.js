@@ -1,7 +1,7 @@
 import columns from "./columns.json" with { type: "json" };
 import configJson from "./config.json" with { type: "json" };
 
-import { Table } from "../../src/v5/index.js";
+import { Table } from "../../src/v6/index.js";
 
 import { createDataProvider } from "https://keshavsoft.github.io/json-to-dom-provider/dist/v1/min.js";
 

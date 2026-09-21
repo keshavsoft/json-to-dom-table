@@ -1,0 +1,81 @@
+{
+    "tagName": "div",
+    "attributes": {
+        "class": "card shadow-sm"
+    },
+    "children": [
+        {
+            "tagName": "div",
+            "attributes": {
+                "class": "table-responsive"
+            },
+            "children": [
+                {
+                    "tagName": "table",
+                    "attributes": {
+                        "class": "table table-hover table-striped mb-0"
+                    },
+                    "children": [
+                        {
+                            "tagName": "colgroup",
+                            "jsonToSpec": {
+                                "operation": "loopArray",
+                                "source": "colGroup",
+                                "template": {
+                                    "tagName": "col",
+                                    "attributes": {
+                                        "style": "${style}"
+                                    }
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "tagName": "thead",
+                            "attributes": {
+                                "class": "table-dark"
+                            },
+                            "children": [
+                                {
+                                    "tagName": "tr",
+                                    "jsonToSpec": {
+                                        "operation": "loopArray",
+                                        "source": "columns",
+                                        "template": {
+                                            "tagName": "th",
+                                            "textContent": "${label}"
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "tagName": "tbody",
+                            "attributes": {
+                                "id": "table-body"
+                            },
+                            "jsonToSpec": {
+                                "operation": "loopArray",
+                                "source": "data",
+                                "template": {
+                                    "tagName": "tr",
+                                    "jsonToSpec": {
+                                        "operation": "loopObject",
+                                        "source": "data",
+                                        "template": {
+                                            "tagName": "td",
+                                            "textContent": "${value}"
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

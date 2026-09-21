@@ -1,9 +1,9 @@
 {
   "name": "json-to-dom-table",
-  "version": "2.2.1",
+  "version": "6.1.1",
   "description": "Standalone, config-driven Table renderer built on top of json-to-dom",
   "type": "module",
-  "main": "src/v2/index.js",
+  "main": "src/v6/index.js",
   "files": [
     "src",
     "docs",
@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "@keshavsoft/json-to-dom": "^1.39.1",
+    "@keshavsoft/json-to-tag": "^1.3.5",
     "json-to-spec": "^21.1.1"
   }
 }
