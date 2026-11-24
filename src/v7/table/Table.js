@@ -26,8 +26,7 @@ class Table {
             columns: this.columns,
             options: this.options,
             targetHtmlId: targetContainerId,
-            appendPosition,
-            classToApply: ""
+            appendPosition
         });
     }
 }

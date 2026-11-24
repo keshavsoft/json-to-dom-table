@@ -7,10 +7,13 @@ var e = Object.defineProperty, t = (t, n) => {
 	});
 	return n || e(r, Symbol.toStringTag, { value: "Module" }), r;
 }, n = {
-	version: "1.7.1",
-	description: "Lightweight, class-based table instance manager powered by declarative jsonRenderers"
+	version: "1.8.1",
+	description: "Class-based table instance manager with integrated event hooking"
 }, r = (e) => {
-	typeof globalThis < "u" && e && (globalThis.ks ??= {}, globalThis.ks.jsonToDom ??= {}, globalThis.ks.jsonToDom.table ??= {}, globalThis.ks.jsonToDom.table.build = {
+	typeof globalThis < "u" && e && (globalThis.ks ??= {}, globalThis.ks.jsonToDom ??= {}, globalThis.ks.jsonToDom.table ??= {}, globalThis.ks.jsonToDom.table.v8 = {
+		meta: n,
+		Table: e
+	}, globalThis.ks.jsonToDom.table.build = {
 		meta: n,
 		Table: e
 	});
@@ -7889,41 +7892,50 @@ var ei = (e) => {
 		classToApply: e.classToApply ?? "",
 		showLog: t
 	});
+}, ni = (e = {}) => {
+	let t = typeof e.container == "string" ? document.getElementById(e.container) : e.container, n = (n) => {
+		if (!t) return;
+		let r = t.querySelector("#table-content-container") || t.querySelector("table")?.parentElement || t;
+		if (!r) return;
+		let i = r.id || "table-content-container";
+		r.id ||= i;
+		let a = "table.bodyOnly";
+		console.log("tableType : ", a), ti({
+			data: n,
+			columns: e.columns,
+			targetHtmlId: i,
+			appendPosition: "replace",
+			type: a,
+			options: e.options,
+			classToApply: "",
+			showLog: !1
+		});
+	};
+	return vt({
+		...e,
+		renderTable: e.renderTable || n
+	});
 };
 bt({
 	render: ti,
-	hookEvents: (e = {}) => {
-		let t = typeof e.container == "string" ? document.getElementById(e.container) : e.container, n = (n) => {
-			if (!t) return;
-			let r = t.querySelector("#table-content-container") || t.querySelector("table")?.parentElement || t;
-			if (!r) return;
-			let i = r.id || "table-content-container";
-			r.id ||= i;
-			let a = "table.bodyOnly";
-			console.log("tableType : ", a), ti({
-				data: n,
-				columns: e.columns,
-				targetHtmlId: i,
-				appendPosition: "replace",
-				type: a,
-				options: e.options,
-				classToApply: "",
-				showLog: !1
-			});
-		};
-		return vt({
-			...e,
-			renderTable: e.renderTable || n
-		});
-	}
+	hookEvents: ni
 });
-// src/v7/table/Table.js
-var ni = class {
+// src/v8/table/Table.js
+var ri = class {
 	constructor({ data: e = [], columns: t = [], options: n = {}, type: r = "table.simple", targetContainerId: i = "" } = {}) {
 		this.data = e, this.columns = t, this.options = n, this.type = r, this.targetContainerId = i;
 	}
-	render({ targetContainerId: e = this.targetContainerId, type: t = this.type, appendPosition: n = "replace" } = {}) {
-		return ti({
+	hookEvents({ container: e = this.targetContainerId } = {}) {
+		let t = typeof e == "string" ? document.getElementById(e) : e;
+		return t ? ni({
+			container: t,
+			data: this.data,
+			columns: this.columns,
+			options: this.options
+		}) : null;
+	}
+	render({ targetContainerId: e = this.targetContainerId, type: t = this.type, appendPosition: n = "replace", autoHookEvents: r = !0 } = {}) {
+		let i = ti({
 			type: t,
 			data: this.data,
 			columns: this.columns,
@@ -7932,9 +7944,10 @@ var ni = class {
 			appendPosition: n,
 			classToApply: ""
 		});
+		return r && this.hookEvents({ container: e }), i;
 	}
 };
-// src/v7/index.js
-r(ni);
-var ri = ni;
-export { ni as Table, ri as default };
+// src/v8/index.js
+r(ri);
+var ii = ri;
+export { ri as Table, ni as buildTableEvents, ii as default, vt as hookTableEvents };

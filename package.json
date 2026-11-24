@@ -1,6 +1,6 @@
 {
   "name": "json-to-dom-table",
-  "version": "7.1.1",
+  "version": "8.1.1",
   "description": "Standalone, config-driven Table renderer built on top of json-to-dom",
   "type": "module",
   "main": "src/index.js",
@@ -15,7 +15,8 @@
     "./v2": "./src/v2/index.js",
     "./v3": "./src/v3/index.js",
     "./v6": "./src/v6/index.js",
-    "./v7": "./src/v7/index.js"
+    "./v7": "./src/v7/index.js",
+    "./v8": "./src/v8/index.js"
   },
   "scripts": {
     "build": "npx @keshavsoft/build-cli"
@@ -31,6 +32,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "json-renderers-build-table": "^1.57.2"
+    "json-renderers-build-table": "^1.57.2",
+    "json-renderers-build-table-events": "^1.2.2"
   }
 }

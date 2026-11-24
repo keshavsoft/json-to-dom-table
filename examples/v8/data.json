@@ -1,0 +1,22 @@
+[
+  {
+    "itemName": "High Tensile Bolt M8",
+    "category": "Fasteners",
+    "baseUnit": "kgs"
+  },
+  {
+    "itemName": "Stainless Steel Washer",
+    "category": "Hardware",
+    "baseUnit": "pcs"
+  },
+  {
+    "itemName": "Aluminum Profile 40x40",
+    "category": "Extrusions",
+    "baseUnit": "mtr"
+  },
+  {
+    "itemName": "Hex Nut M8 Zinc",
+    "category": "Fasteners",
+    "baseUnit": "kgs"
+  }
+]
