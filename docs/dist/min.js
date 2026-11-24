@@ -7,7 +7,7 @@ var e = Object.defineProperty, t = (t, n) => {
 	});
 	return n || e(r, Symbol.toStringTag, { value: "Module" }), r;
 }, n = {
-	version: "v7.0",
+	version: "1.7.1",
 	description: "Lightweight, class-based table instance manager powered by declarative jsonRenderers"
 }, r = (e) => {
 	typeof globalThis < "u" && e && (globalThis.ks ??= {}, globalThis.ks.jsonToDom ??= {}, globalThis.ks.jsonToDom.table ??= {}, globalThis.ks.jsonToDom.table.build = {
