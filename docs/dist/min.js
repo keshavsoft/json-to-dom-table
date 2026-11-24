@@ -7,7 +7,7 @@ var e = Object.defineProperty, t = (t, n) => {
 	});
 	return n || e(r, Symbol.toStringTag, { value: "Module" }), r;
 }, n = {
-	version: "1.8.1",
+	version: "1.9.1",
 	description: "Class-based table instance manager with integrated event hooking"
 }, r = (e) => {
 	typeof globalThis < "u" && e && (globalThis.ks ??= {}, globalThis.ks.jsonToDom ??= {}, globalThis.ks.jsonToDom.table ??= {}, globalThis.ks.jsonToDom.table.v8 = {
@@ -7892,47 +7892,70 @@ var ei = (e) => {
 		classToApply: e.classToApply ?? "",
 		showLog: t
 	});
-}, ni = (e = {}) => {
-	let t = typeof e.container == "string" ? document.getElementById(e.container) : e.container, n = (n) => {
-		if (!t) return;
-		let r = t.querySelector("#table-content-container") || t.querySelector("table")?.parentElement || t;
-		if (!r) return;
-		let i = r.id || "table-content-container";
-		r.id ||= i;
-		let a = "table.bodyOnly";
-		console.log("tableType : ", a), ti({
-			data: n,
-			columns: e.columns,
-			targetHtmlId: i,
-			appendPosition: "replace",
-			type: a,
-			options: e.options,
-			classToApply: "",
-			showLog: !1
-		});
-	};
-	return vt({
-		...e,
-		renderTable: e.renderTable || n
-	});
 };
 bt({
 	render: ti,
-	hookEvents: ni
+	hookEvents: (e = {}) => {
+		let t = typeof e.container == "string" ? document.getElementById(e.container) : e.container, n = (n) => {
+			if (!t) return;
+			let r = t.querySelector("#table-content-container") || t.querySelector("table")?.parentElement || t;
+			if (!r) return;
+			let i = r.id || "table-content-container";
+			r.id ||= i;
+			let a = "table.bodyOnly";
+			console.log("tableType : ", a), ti({
+				data: n,
+				columns: e.columns,
+				targetHtmlId: i,
+				appendPosition: "replace",
+				type: a,
+				options: e.options,
+				classToApply: "",
+				showLog: !1
+			});
+		};
+		return vt({
+			...e,
+			renderTable: e.renderTable || n
+		});
+	}
 });
-// src/v8/table/Table.js
-var ri = class {
+// node_modules/dom-table-events-search/src/v3/registerGlobal/meta.js
+var ni = {
+	version: "1.3.1",
+	description: "Stateless table search event delegation and direct row hooking"
+}, ri = (e) => {
+	typeof globalThis < "u" && e && (globalThis.ks ??= {}, globalThis.ks.domEvents ??= {}, globalThis.ks.domEvents.table ??= {}, globalThis.ks.domEvents.table = {
+		meta: ni,
+		bindTableEvents: e
+	});
+}, ii = ({ container: e, data: t = [], columns: n = [], options: r = {} } = {}) => {
+	let i = typeof e == "string" ? document.getElementById(e) : e;
+	i && i.addEventListener("input", (e) => {
+		let a = e.target;
+		if (!a.matches("input[type='search'], input[name='search'], [data-role='table-search'], #tableSearch, .table-search-input")) return;
+		let o = (a.value || "").trim().toLowerCase(), s = o ? t.filter((e) => Object.values(e).some((e) => String(e ?? "").toLowerCase().includes(o))) : t, c = (a.closest("table") || i.querySelector("table"))?.querySelector("tbody");
+		if (!c) return;
+		let l = globalThis.window?.ks || globalThis.ks, u = l?.jsonRenderers?.runInstructions?.render?.renderFunc, d = l?.jsonToTag?.buildSpecElement;
+		if (typeof u == "function" && typeof d == "function") {
+			let e = u({
+				instructionMainKey: "table",
+				instructionSubKey: "bodyOnly",
+				data: {
+					data: s,
+					columns: n
+				},
+				options: r
+			}), t = ((e.tagName === "tbody" ? e : e.children?.[0] || e).children || []).map((e) => d(e));
+			c.replaceChildren(...t);
+		}
+	});
+};
+// node_modules/dom-table-events-search/src/v3/index.js
+ri(ii);
+var ai = ii, oi = class {
 	constructor({ data: e = [], columns: t = [], options: n = {}, type: r = "table.simple", targetContainerId: i = "" } = {}) {
 		this.data = e, this.columns = t, this.options = n, this.type = r, this.targetContainerId = i;
-	}
-	hookEvents({ container: e = this.targetContainerId } = {}) {
-		let t = typeof e == "string" ? document.getElementById(e) : e;
-		return t ? ni({
-			container: t,
-			data: this.data,
-			columns: this.columns,
-			options: this.options
-		}) : null;
 	}
 	render({ targetContainerId: e = this.targetContainerId, type: t = this.type, appendPosition: n = "replace", autoHookEvents: r = !0 } = {}) {
 		let i = ti({
@@ -7944,10 +7967,15 @@ var ri = class {
 			appendPosition: n,
 			classToApply: ""
 		});
-		return r && this.hookEvents({ container: e }), i;
+		return ai({
+			container: e,
+			data: this.data,
+			columns: this.columns,
+			options: this.options
+		}), i;
 	}
 };
-// src/v8/index.js
-r(ri);
-var ii = ri;
-export { ri as Table, ni as buildTableEvents, ii as default, vt as hookTableEvents };
+// src/v9/index.js
+r(oi);
+var si = oi;
+export { oi as Table, si as default };
