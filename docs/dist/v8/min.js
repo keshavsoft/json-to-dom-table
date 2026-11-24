@@ -7892,62 +7892,79 @@ var ei = (e) => {
 		classToApply: e.classToApply ?? "",
 		showLog: t
 	});
-}, ni = (e = {}) => {
-	let t = typeof e.container == "string" ? document.getElementById(e.container) : e.container, n = (n) => {
-		if (!t) return;
-		let r = t.querySelector("#table-content-container") || t.querySelector("table")?.parentElement || t;
-		if (!r) return;
-		let i = r.id || "table-content-container";
-		r.id ||= i;
-		let a = "table.bodyOnly";
-		console.log("tableType : ", a), ti({
-			data: n,
-			columns: e.columns,
-			targetHtmlId: i,
-			appendPosition: "replace",
-			type: a,
-			options: e.options,
-			classToApply: "",
-			showLog: !1
-		});
-	};
-	return vt({
-		...e,
-		renderTable: e.renderTable || n
-	});
 };
 bt({
 	render: ti,
-	hookEvents: ni
+	hookEvents: (e = {}) => {
+		let t = typeof e.container == "string" ? document.getElementById(e.container) : e.container, n = (n) => {
+			if (!t) return;
+			let r = t.querySelector("#table-content-container") || t.querySelector("table")?.parentElement || t;
+			if (!r) return;
+			let i = r.id || "table-content-container";
+			r.id ||= i;
+			let a = "table.bodyOnly";
+			console.log("tableType : ", a), ti({
+				data: n,
+				columns: e.columns,
+				targetHtmlId: i,
+				appendPosition: "replace",
+				type: a,
+				options: e.options,
+				classToApply: "",
+				showLog: !1
+			});
+		};
+		return vt({
+			...e,
+			renderTable: e.renderTable || n
+		});
+	}
 });
 // src/v8/table/Table.js
-var ri = class {
+var ni = ({ container: e, data: t = [], columns: n = [], options: r = {} } = {}) => {
+	let i = typeof e == "string" ? document.getElementById(e) : e;
+	i && i.addEventListener("input", (e) => {
+		let a = e.target;
+		if (!a.matches("input[type='search'], input[name='search'], [data-role='table-search'], #tableSearch, .table-search-input")) return;
+		let o = (a.value || "").trim().toLowerCase(), s = o ? t.filter((e) => Object.values(e).some((e) => String(e ?? "").toLowerCase().includes(o))) : t, c = (a.closest("table") || i.querySelector("table"))?.querySelector("tbody");
+		if (!c) return;
+		let l = $r({
+			instructionMainKey: "table",
+			instructionSubKey: "bodyOnly",
+			data: {
+				data: s,
+				columns: n
+			},
+			options: r
+		}), u = ((l.tagName === "tbody" ? l : l.children?.[0] || l).children || []).map((e) => we(e));
+		c.replaceChildren(...u);
+		let d = i.querySelector("#search-feedback, [data-role='feedback'], .badge");
+		d && (d.textContent = o ? `Showing ${s.length} of ${t.length} records matching "${a.value.trim()}".` : `Showing all ${t.length} records.`);
+	});
+}, ri = class {
 	constructor({ data: e = [], columns: t = [], options: n = {}, type: r = "table.simple", targetContainerId: i = "" } = {}) {
 		this.data = e, this.columns = t, this.options = n, this.type = r, this.targetContainerId = i;
 	}
-	hookEvents({ container: e = this.targetContainerId } = {}) {
-		let t = typeof e == "string" ? document.getElementById(e) : e;
-		return t ? ni({
-			container: t,
-			data: this.data,
-			columns: this.columns,
-			options: this.options
-		}) : null;
-	}
-	render({ targetContainerId: e = this.targetContainerId, type: t = this.type, appendPosition: n = "replace", autoHookEvents: r = !0 } = {}) {
-		let i = ti({
-			type: t,
+	render(e = {}) {
+		let t = ti({
+			type: this.type,
 			data: this.data,
 			columns: this.columns,
 			options: this.options,
-			targetHtmlId: e,
-			appendPosition: n,
-			classToApply: ""
+			targetHtmlId: this.targetContainerId,
+			appendPosition: "replace",
+			classToApply: "",
+			...e
 		});
-		return r && this.hookEvents({ container: e }), i;
+		return ni({
+			container: this.targetContainerId,
+			data: this.data,
+			columns: this.columns,
+			options: this.options
+		}), t;
 	}
 };
 // src/v8/index.js
 r(ri);
 var ii = ri;
-export { ri as Table, ni as buildTableEvents, ii as default, vt as hookTableEvents };
+export { ri as Table, ii as default };
