@@ -1,4 +1,4 @@
-import { Table, buildTableEvents, hookTableEvents } from "./Table.js";
+import { Table } from "./Table.js";
 
-export { Table, buildTableEvents, hookTableEvents };
+export { Table };
 export default Table;
