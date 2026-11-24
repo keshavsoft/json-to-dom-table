@@ -1,11 +1,10 @@
 import columns from "./columns.json" with { type: "json" };
 import data from "./data.json" with { type: "json" };
-import { Table } from "../../src/v7/index.js";
 
 const start = () => {
     try {
         // Table 1: Simple table instance with serial
-        const table1 = new Table({
+        const table1 = new window.ks.jsonToDom.table.build.Table({
             data,
             columns,
             options: {
@@ -19,7 +18,7 @@ const start = () => {
         console.log("Table 1 rendered successfully:", table1);
 
         // Table 2: Another independent table instance with action buttons
-        const table2 = new Table({
+        const table2 = new window.ks.jsonToDom.table.build.Table({
             data: data.slice(0, 2),
             columns,
             options: {

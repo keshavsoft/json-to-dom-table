@@ -7929,7 +7929,8 @@ var ni = class {
 			columns: this.columns,
 			options: this.options,
 			targetHtmlId: e,
-			appendPosition: n
+			appendPosition: n,
+			classToApply: ""
 		});
 	}
 };
