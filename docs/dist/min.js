@@ -7,10 +7,10 @@ var e = Object.defineProperty, t = (t, n) => {
 	});
 	return n || e(r, Symbol.toStringTag, { value: "Module" }), r;
 }, n = {
-	version: "1.9.1",
-	description: "Class-based table instance manager with integrated event hooking"
+	version: "1.10.1",
+	description: "Class-based table instance manager with separated data construction and render target configuration"
 }, r = (e) => {
-	typeof globalThis < "u" && e && (globalThis.ks ??= {}, globalThis.ks.jsonToDom ??= {}, globalThis.ks.jsonToDom.table ??= {}, globalThis.ks.jsonToDom.table.v8 = {
+	typeof globalThis < "u" && e && (globalThis.ks ??= {}, globalThis.ks.jsonToDom ??= {}, globalThis.ks.jsonToDom.table ??= {}, globalThis.ks.jsonToDom.table.v10 = {
 		meta: n,
 		Table: e
 	}, globalThis.ks.jsonToDom.table.build = {
@@ -7954,10 +7954,11 @@ var ni = {
 // node_modules/dom-table-events-search/src/v3/index.js
 ri(ii);
 var ai = ii, oi = class {
-	constructor({ data: e = [], columns: t = [], options: n = {}, type: r = "table.simple", targetContainerId: i = "" } = {}) {
-		this.data = e, this.columns = t, this.options = n, this.type = r, this.targetContainerId = i;
+	constructor({ data: e = [], columns: t = [], options: n = {} } = {}) {
+		this.data = e, this.columns = t, this.options = n;
 	}
-	render({ targetContainerId: e = this.targetContainerId, type: t = this.type, appendPosition: n = "replace", autoHookEvents: r = !0 } = {}) {
+	render({ targetContainerId: e = "", type: t = "table.simple", appendPosition: n = "replace", autoHookEvents: r = !0 } = {}) {
+		if (!e) return console.warn("[json-to-dom-table v10] Missing targetContainerId in render()."), null;
 		let i = ti({
 			type: t,
 			data: this.data,
@@ -7967,7 +7968,7 @@ var ai = ii, oi = class {
 			appendPosition: n,
 			classToApply: ""
 		});
-		return ai({
+		return r && ai({
 			container: e,
 			data: this.data,
 			columns: this.columns,
@@ -7975,7 +7976,7 @@ var ai = ii, oi = class {
 		}), i;
 	}
 };
-// src/v9/index.js
+// src/v10/index.js
 r(oi);
 var si = oi;
 export { oi as Table, si as default };

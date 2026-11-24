@@ -1,0 +1,20 @@
+[
+  {
+    "columnName": "itemName",
+    "label": "Item Name",
+    "type": "text",
+    "width": "260px"
+  },
+  {
+    "columnName": "category",
+    "label": "Category",
+    "type": "text",
+    "width": "180px"
+  },
+  {
+    "columnName": "baseUnit",
+    "label": "Base Unit",
+    "type": "text",
+    "width": "120px"
+  }
+]
