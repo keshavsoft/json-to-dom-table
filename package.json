@@ -18,7 +18,8 @@
     "./v7": "./src/v7/index.js",
     "./v8": "./src/v8/index.js",
     "./v9": "./src/v9/index.js",
-    "./v10": "./src/v10/index.js"
+    "./v10": "./src/v10/index.js",
+    "./v11": "./src/v11/index.js"
   },
   "scripts": {
     "build": "npx @keshavsoft/build-cli"
