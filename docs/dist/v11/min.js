@@ -36,6 +36,14 @@ var e = {
 		bodyOnly: {
 			baseFromSpec: "tableBodyOnly",
 			instructions: ["buildBody"]
+		},
+		simpleSortable: {
+			baseFromSpec: "tableSimple",
+			instructions: [
+				"buildColgroup",
+				"buildHeaderClickable",
+				"buildBody"
+			]
 		}
 	},
 	select: { simple: {
@@ -2760,6 +2768,21 @@ var Me = {
 		render: e
 	});
 }, Pe = {
+	buildHeaderClickable: {
+		type: "single",
+		narration: "Build table header",
+		destinationPath: {
+			fileName: "base",
+			filePath: ["children"],
+			jsonPath: "$..*[?@.attributes['data-role'] == 'table-header-row']"
+		},
+		sourcePath: {
+			fileName: "data",
+			jsonPath: "$.columns"
+		},
+		templateKey: "tableHeaderClickable",
+		func: "fromCollection"
+	},
 	buildColgroup: {
 		type: "single",
 		narration: "Build column widths",

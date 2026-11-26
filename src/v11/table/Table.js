@@ -44,7 +44,7 @@ class Table {
                 columns: this.columns,
                 options: this.options
             });
-        }
+        };
 
         this.hookHeaderClick({
             targetContainerId,
@@ -71,10 +71,10 @@ class Table {
         if (!tableElement) return;
 
         tableElement.addEventListener("click", (event) => {
-            const headerCell = event.target.closest("thead th");
+            const headerCell = event.target.closest('thead th[data-role="sortable-header"]');
             if (!headerCell || !tableElement.contains(headerCell)) return;
 
-            const columnName = this.#resolveColumnName(headerCell);
+            const columnName = headerCell.dataset.column;
             if (!columnName) return;
 
             const nextOrder = (this.sortColumn === columnName && this.sortOrder === "asc")
@@ -92,25 +92,6 @@ class Table {
                 autoHookEvents: false
             });
         });
-    }
-
-    #resolveColumnName(headerCell) {
-        if (headerCell.dataset.column) {
-            return headerCell.dataset.column;
-        }
-
-        const headerText = headerCell.textContent?.trim();
-        if (!headerText || !Array.isArray(this.columns)) return null;
-
-        const matched = this.columns.find((col) => {
-            if (typeof col === "string") return col === headerText;
-            return col?.columnName === headerText || col?.key === headerText || col?.label === headerText;
-        });
-
-        if (!matched) return null;
-        return typeof matched === "string"
-            ? matched
-            : (matched.columnName || matched.key || matched.name || null);
     }
 
     #sortData(columnName, order) {
@@ -149,7 +130,7 @@ class Table {
         if (!headerCells) return;
 
         headerCells.forEach((th) => {
-            const colName = this.#resolveColumnName(th);
+            const colName = th.dataset.column;
             const indicator = th.querySelector("[data-role='sort-indicator']");
 
             if (colName === this.sortColumn) {
