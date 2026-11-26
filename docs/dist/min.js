@@ -1,4 +1,4 @@
-// src/v12/meta.js
+// src/v13/meta.js
 var e = {
 	version: "1.12.1",
 	description: "Lean class-based Table with modular addListeners, sortData, and updateHeaderState steps"
@@ -7569,7 +7569,7 @@ var yr = (e) => {
 	});
 };
 Ne(br);
-// node_modules/dom-table-events-search/src/v3/registerGlobal/meta.js
+// ../dom-table-events-search/src/v4/registerGlobal/meta.js
 var xr = {
 	version: "1.3.1",
 	description: "Stateless table search event delegation and direct row hooking"
@@ -7583,7 +7583,9 @@ var xr = {
 	i && i.addEventListener("input", (e) => {
 		let a = e.target;
 		if (!a.matches("input[type='search'], input[name='search'], [data-role='table-search'], #tableSearch, .table-search-input")) return;
-		let o = (a.value || "").trim().toLowerCase(), s = o ? t.filter((e) => Object.values(e).some((e) => String(e ?? "").toLowerCase().includes(o))) : t, c = (a.closest("table") || i.querySelector("table"))?.querySelector("tbody");
+		let o = (a.value || "").trim().toLowerCase(), s = o ? t.filter((e) => Object.values(e).some((e) => String(e ?? "").toLowerCase().includes(o))) : t;
+		console.log("filtered : ", s);
+		let c = (a.closest("table") || i.querySelector("table"))?.querySelector("tbody");
 		if (!c) return;
 		let l = globalThis.window?.ks || globalThis.ks, u = l?.jsonRenderers?.runInstructions?.render?.renderFunc, d = l?.jsonToTag?.buildSpecElement;
 		if (typeof u == "function" && typeof d == "function") {
@@ -7600,7 +7602,7 @@ var xr = {
 		}
 	});
 };
-// node_modules/dom-table-events-search/src/v3/index.js
+// ../dom-table-events-search/src/v4/index.js
 Sr(Cr);
 var wr = Cr, Tr = ({ targetContainerId: e, data: t, columns: n, options: r }) => {
 	let { search: i, ...a } = r || {};
@@ -7657,7 +7659,7 @@ var wr = Cr, Tr = ({ targetContainerId: e, data: t, columns: n, options: r }) =>
 	});
 }, G = class {
 	constructor({ data: e = [], columns: t = [], options: n = {} } = {}) {
-		this.data = e, this.columns = t, this.options = n, this.sortColumn = null, this.sortOrder = "none";
+		this.data = e, this.columns = t, this.options = n, this.sortColumn = null, this.sortOrder = "none", this.state = e;
 	}
 	render({ targetContainerId: e = "", type: t = "table.simple", appendPosition: n = "replace", autoHookEvents: r = !0 } = {}) {
 		if (!e) return console.warn("[json-to-dom-table v12] Missing targetContainerId in render()."), null;
@@ -7686,7 +7688,7 @@ var wr = Cr, Tr = ({ targetContainerId: e, data: t, columns: n, options: r }) =>
 		}), i;
 	}
 };
-// src/v12/index.js
+// src/v13/index.js
 t(G);
 var K = G;
 export { G as Table, K as default };

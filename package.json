@@ -1,6 +1,6 @@
 {
   "name": "json-to-dom-table",
-  "version": "12.1.1",
+  "version": "13.1.1",
   "description": "Standalone, config-driven Table renderer built on top of json-to-dom",
   "type": "module",
   "main": "src/index.js",
@@ -29,7 +29,7 @@
   "author": "KeshavSoft",
   "license": "MIT",
   "dependencies": {
-    "dom-table-events-search": "^1.3.1",
+    "dom-table-events-search": "file:../dom-table-events-search",
     "json-renderers-build-table": "^1.58.2"
   }
 }
