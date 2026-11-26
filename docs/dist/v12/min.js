@@ -7603,11 +7603,12 @@ var xr = {
 // node_modules/dom-table-events-search/src/v3/index.js
 Sr(Cr);
 var wr = Cr, Tr = ({ targetContainerId: e, data: t, columns: n, options: r }) => {
+	let { search: i, ...a } = r || {};
 	wr({
 		container: e,
 		data: t,
 		columns: n,
-		options: r
+		options: a
 	});
 }, V = ({ data: e, columnName: t, order: n }) => {
 	Array.isArray(e) && e.length !== 0 && t && e.sort((e, r) => {
