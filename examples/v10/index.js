@@ -25,7 +25,7 @@ const start = () => {
 
         table1.render({
             targetContainerId: "table-container-1",
-            type: "table.simpleSortable"
+            type: "withFooter"
         });
         console.log("Table 1 (v10) rendered:", table1);
 
