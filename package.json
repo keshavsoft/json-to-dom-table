@@ -1,6 +1,6 @@
 {
   "name": "json-to-dom-table",
-  "version": "14.1.1",
+  "version": "15.1.1",
   "description": "Standalone, config-driven Table renderer built on top of json-to-dom",
   "type": "module",
   "main": "src/index.js",
@@ -14,7 +14,8 @@
     "./v9": "./src/v9/index.js",
     "./v10": "./src/v10/index.js",
     "./v11": "./src/v11/index.js",
-    "./v12": "./src/v12/index.js"
+    "./v12": "./src/v12/index.js",
+    "./v15": "./src/v15/index.js"
   },
   "scripts": {
     "build": "npx @keshavsoft/build-cli"
