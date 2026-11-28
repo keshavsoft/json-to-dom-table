@@ -1,0 +1,37 @@
+{
+  "readSearchValue": [
+    {
+      "narration": "Read the current query text from the matched search input.",
+      "sourcePath": { "fileName": "root" },
+      "func": "readValue"
+    }
+  ],
+  "findHelperBadge": [
+    {
+      "narration": "Walk up to the enclosing search toolbar.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "[data-role='search-toolbar']" }
+    },
+    {
+      "narration": "Locate the helper badge element inside the search helper slot.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelector",
+      "arguments": { "selector": "[data-role='search-helper-slot'] > *" }
+    }
+  ],
+  "findTableBody": [
+    {
+      "narration": "Walk up to the enclosing table parent wrapper.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "[data-role='table-parent']" }
+    },
+    {
+      "narration": "Drill down to the live tbody element for that table.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelector",
+      "arguments": { "selector": "table tbody" }
+    }
+  ]
+}
