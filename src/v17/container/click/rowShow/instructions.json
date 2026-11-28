@@ -1,0 +1,52 @@
+{
+  "findRow": [
+    {
+      "narration": "Walk up from the Show button to its enclosing table row.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "tr" }
+    }
+  ],
+  "findTableBody": [
+    {
+      "narration": "Walk up from the Show button to the enclosing tbody.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "tbody" }
+    }
+  ],
+  "readRowValues": [
+    {
+      "narration": "Walk up from the Show button to its enclosing row.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "tr" }
+    },
+    {
+      "narration": "Collect all cell elements inside that row.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelectorAll",
+      "arguments": { "selector": "td" }
+    },
+    {
+      "narration": "Map cell texts onto configured column keys.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "mapValues",
+      "arguments": { "read": "text" }
+    }
+  ],
+  "findHelperBadge": [
+    {
+      "narration": "Walk up to the enclosing table parent wrapper.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "[data-role='table-parent']" }
+    },
+    {
+      "narration": "Locate the helper badge element inside the search helper slot.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelector",
+      "arguments": { "selector": "[data-role='search-helper-slot'] > *" }
+    }
+  ]
+}

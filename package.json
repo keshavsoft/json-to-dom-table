@@ -1,6 +1,6 @@
 {
   "name": "json-to-dom-table",
-  "version": "16.1.1",
+  "version": "17.1.1",
   "description": "Standalone, config-driven Table renderer built on top of json-to-dom",
   "type": "module",
   "main": "src/index.js",
@@ -16,7 +16,8 @@
     "./v11": "./src/v11/index.js",
     "./v12": "./src/v12/index.js",
     "./v15": "./src/v15/index.js",
-    "./v16": "./src/v16/index.js"
+    "./v16": "./src/v16/index.js",
+    "./v17": "./src/v17/index.js"
   },
   "scripts": {
     "build": "npx @keshavsoft/build-cli"
@@ -33,6 +34,7 @@
   "dependencies": {
     "@keshavsoft/json-to-tag": "file:../keshavsoft-json-to-tag",
     "declarative-spec": "^1.4.1",
+    "dom-primitive-bindings": "file:../dom-primitive-bindings",
     "dom-primitive-engine": "file:../dom-primitive-engine",
     "json-renderers-build-table": "file:../json-renderers-build-table",
     "json-transformer-funcs-two-dimensions": "^1.10.1"

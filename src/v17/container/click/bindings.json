@@ -1,0 +1,22 @@
+[
+  {
+    "event": "click",
+    "selector": "thead th[data-role='sortable-header']",
+    "action": "onSortHeader"
+  },
+  {
+    "event": "click",
+    "selector": ".ks-btn-show",
+    "action": "onRowShow"
+  },
+  {
+    "event": "click",
+    "selector": ".ks-btn-edit",
+    "action": "onRowEdit"
+  },
+  {
+    "event": "click",
+    "selector": ".ks-btn-delete",
+    "action": "onRowDelete"
+  }
+]

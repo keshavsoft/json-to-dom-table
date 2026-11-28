@@ -19,13 +19,18 @@ const start = () => {
                     showHelper: true,
                     showInput: true
                 },
+                options: {
+                    showButton: true,
+                    showEditButton: true,
+                    showDeleteButton: true
+                },
                 serial: true
             }
         });
 
         table1.render({
             targetContainerId: "table-container-1",
-            type: "withFooter"
+            type: "simpleSortable"
         });
         console.log("Table 1 (v10) rendered:", table1);
 

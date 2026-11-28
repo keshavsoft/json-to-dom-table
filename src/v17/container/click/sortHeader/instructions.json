@@ -1,0 +1,63 @@
+{
+  "findHeaderCells": [
+    {
+      "narration": "Walk up from the clicked column header to its enclosing thead.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "thead" }
+    },
+    {
+      "narration": "Collect all header cells in that thead row to refresh sort indicators.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelectorAll",
+      "arguments": { "selector": "th" }
+    }
+  ],
+  "readSearchQuery": [
+    {
+      "narration": "Walk up to the enclosing table parent container.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "[data-role='table-parent']" }
+    },
+    {
+      "narration": "Locate the table search input if the search toolbar is rendered.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelector",
+      "arguments": { "selector": "[data-role='search-input-slot'] input" }
+    },
+    {
+      "narration": "Read any active search filter so sorting preserves filtered results.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "readValue"
+    }
+  ],
+  "findHelperBadge": [
+    {
+      "narration": "Walk up to the enclosing table parent container.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "[data-role='table-parent']" }
+    },
+    {
+      "narration": "Locate the helper badge element inside the search helper slot.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelector",
+      "arguments": { "selector": "[data-role='search-helper-slot'] > *" }
+    }
+  ],
+  "findTableBody": [
+    {
+      "narration": "Walk up to the enclosing table element.",
+      "sourcePath": { "fileName": "root" },
+      "func": "closest",
+      "arguments": { "selector": "table" }
+    },
+    {
+      "narration": "Select the live tbody element for that table.",
+      "sourcePath": { "fileName": "previous" },
+      "func": "querySelector",
+      "arguments": { "selector": "tbody" }
+    }
+  ]
+}
